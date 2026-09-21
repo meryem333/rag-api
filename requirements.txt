@@ -4,3 +4,5 @@ chromadb
 ollama
 python-multipart
 pypdf
+pytest
+httpx
