@@ -4,3 +4,6 @@ __pycache__/
 chroma_db/
 *.egg-info/
 .vscode/
+test.pdf
+test_ingestion.py
+test_query.py
